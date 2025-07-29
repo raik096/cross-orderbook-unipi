@@ -94,9 +94,6 @@ Il progetto è **funzionale**, ma **non completamente completato**. Nello specif
 
 Altri comandi: `login`, `logout`, `updateCredentials`, `insertLimitOrder`, `insertMarketOrder`, `insertStopOrder`, `cancelOrder`, `getPriceHistory`
 
-Consulta l'[allegato 1](./Progetto%20LAB2425Versione1.2.pdf) per il formato completo.
-
-
 
 ## 📎 Credits
 
